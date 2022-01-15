@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import './GalleryItem.css';
 
 function GalleryItem ({item, addLikes}){
 
@@ -19,7 +20,7 @@ return(
 
         <div>
          👍🏼: {item.likes}
-        <button onClick={onAddClicks}> That's Awesome!</button>
+        <button onClick={onAddClicks}> Give me some likes!</button>
         </div>
 
     </div>
