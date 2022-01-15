@@ -1,5 +1,5 @@
 import GalleryItem from '../GalleryItem/GalleryItem'
-function GalleryList({galleryList}){
+function GalleryList({galleryList, addLikes}){
 return (
     <div>
     {galleryList.map((item) =>(
@@ -11,6 +11,6 @@ return (
     ))}
     </div>
 )
-}
+};
 
 export default GalleryList;
