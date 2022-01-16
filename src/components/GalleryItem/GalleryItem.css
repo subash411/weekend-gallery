@@ -1,6 +1,6 @@
 .pictures{
     border: 2px solid rgb(80, 11, 191);
-    height: 200px;
+    height: 250px;
     margin: 4rem;
     width: 200px;
     font-style: italic;
@@ -10,8 +10,4 @@
 body{
     background-color: rgb(225, 232, 134);
 
-}
-
-@keyframes bg-animation {
-    
 }
