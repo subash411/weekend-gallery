@@ -10,7 +10,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.0",
-    "server": "^1.0.37"
+    "server": "^1.0.37",
+    "socket.io": "^4.4.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.4"

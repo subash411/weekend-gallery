@@ -1,9 +1,9 @@
 # Project Name
+Weekend -  Gallery
 
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+
 
 ## Description
+Had really fun working with this app, worked directly with Postico database. Each images has like button and when you clicked on it you will see the description of the images.
 
-Your project description goes here. What problem did you solve? How did you solve it?
-
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+I used CSS to style the page.
